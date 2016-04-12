@@ -1,0 +1,1 @@
+web: gunicorn SunwingPilotBid.wsgi --log-file -

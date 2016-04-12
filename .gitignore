@@ -1,5 +1,5 @@
 venv
 *.pyc
 staticfiles
-local_settings.py
-.idea
+**/local_settings.py
+**/.idea/workspace.xml **/.idea/tasks.xml
